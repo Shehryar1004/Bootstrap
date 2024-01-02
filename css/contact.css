@@ -54,6 +54,10 @@ label {
     cursor: pointer;
 }
 
+#form-container {
+    max-width: 787px;
+}
+
 @media screen and (min-width: 576px) {
     form {
         max-width: min(80%, 1200px);
